@@ -6,3 +6,8 @@ body{
   text-decoration: line-through;
   background-color: #e67ba3;
 }
+p{
+  margin: 0;
+  padding: 0;
+  border: 5px solid black;
+}
