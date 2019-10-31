@@ -15,8 +15,10 @@
 p {
   margin-top: 20px;
   margin-bottom: 5px;
+  margin-top: 50px;
+  
   padding-left: 60px;
-  padding-right: 100px;
+  padding-right: 10px;
   border-top: 1px solid #000;
   border-bottom: 5px solid rgb(80, 6, 250);
   border-right: 1px solid red;
