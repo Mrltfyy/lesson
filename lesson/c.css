@@ -1,0 +1,28 @@
+.div {
+  height: 500px;
+  width: 100px;
+  border: solid 10px black;
+  position: relative;
+ 
+}
+.one {
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  height: 30px;
+  width: 30px;
+  border: solid 3px black;
+  background-color: red;
+}
+.two {
+  height: 50px;
+  width: 50px;
+  border: thick 5px black;
+  background-color: blue;
+}
+.three {
+  height: 70px;
+  width: 70px;
+  border: thick 7px black;
+  background-color: yellow;
+}

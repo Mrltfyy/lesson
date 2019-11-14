@@ -1,0 +1,16 @@
+.all {
+  position: relative;
+}
+.one {
+  height: 200px;
+  width: 200px;
+  border: solid 1px black;
+}
+.two {
+  height: 200px;
+  width: 200px;
+  border: solid 1px black;
+  position: absolute;
+  left: 60px;
+  right: 500px;
+}
